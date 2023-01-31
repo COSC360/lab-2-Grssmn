@@ -46,7 +46,7 @@ a:hover {
     font-size: 70%;
 	border-radius: 1em;
 	border: 2px solid transparent;
-	background-image: url("images/gray-gradient.png");
+	background-image: url("../images/gray-gradient.png");
 	width: 98%;
 	padding: 1em 0em 1em 1em;
 	display: inline-block;
